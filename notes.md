@@ -3,3 +3,4 @@
 2014-01-08T20:01:00 - Late-night bugfix on financial RL environment (crypto-experiments)
 2014-01-08T19:47:00 - Refactor for clarity, might break a few tests though (crypto-experiments)
 2014-02-04T18:06:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (crypto-experiments)
+2014-02-04T07:06:00 - Late-night bugfix on financial RL environment (crypto-experiments)
