@@ -5,3 +5,4 @@
 2014-02-04T18:06:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (crypto-experiments)
 2014-02-04T07:06:00 - Late-night bugfix on financial RL environment (crypto-experiments)
 2014-02-04T20:12:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (crypto-experiments)
+2014-02-22T22:08:00 - Minor doc updates: linking to article on quantization (crypto-experiments)
