@@ -11,3 +11,4 @@
 2014-04-15T06:22:00 - Late-night bugfix on financial RL environment (crypto-experiments)
 2014-04-20T01:24:00 - Minor doc updates: linking to article on quantization (crypto-experiments)
 2014-04-20T23:17:00 - Implementing approach from a new paper read last night (crypto-experiments)
+2014-04-20T18:10:00 - Minor doc updates: linking to article on quantization (crypto-experiments)
