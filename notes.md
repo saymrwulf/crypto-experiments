@@ -20,3 +20,4 @@
 2014-09-06T02:39:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (crypto-experiments)
 2014-09-06T17:12:00 - Minor doc updates: linking to article on quantization (crypto-experiments)
 2014-09-06T17:48:00 - Minor doc updates: linking to article on quantization (crypto-experiments)
+2014-09-06T00:50:00 - Quick fix, referencing a known issue from the official repo (crypto-experiments)
