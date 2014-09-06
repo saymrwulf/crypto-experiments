@@ -18,3 +18,4 @@
 2014-06-01T01:36:00 - Quick fix, referencing a known issue from the official repo (crypto-experiments)
 2014-07-06T03:54:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (crypto-experiments)
 2014-09-06T02:39:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (crypto-experiments)
+2014-09-06T17:12:00 - Minor doc updates: linking to article on quantization (crypto-experiments)
