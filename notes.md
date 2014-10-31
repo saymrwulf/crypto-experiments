@@ -21,3 +21,4 @@
 2014-09-06T17:12:00 - Minor doc updates: linking to article on quantization (crypto-experiments)
 2014-09-06T17:48:00 - Minor doc updates: linking to article on quantization (crypto-experiments)
 2014-09-06T00:50:00 - Quick fix, referencing a known issue from the official repo (crypto-experiments)
+2014-10-31T20:54:00 - Quick fix, referencing a known issue from the official repo (crypto-experiments)
