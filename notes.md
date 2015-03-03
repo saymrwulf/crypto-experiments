@@ -25,3 +25,4 @@
 2014-10-31T22:30:00 - Late-night bugfix on financial RL environment (crypto-experiments)
 2014-10-31T19:40:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (crypto-experiments)
 2015-03-03T07:21:00 - Implementing approach from a new paper read last night (crypto-experiments)
+2015-03-03T18:28:00 - Late-night bugfix on financial RL environment (crypto-experiments)
