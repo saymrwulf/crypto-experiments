@@ -31,3 +31,4 @@
 2015-03-20T17:29:00 - Minor doc updates: linking to article on quantization (crypto-experiments)
 2015-04-28T05:17:00 - Minor doc updates: linking to article on quantization (crypto-experiments)
 2015-04-28T00:19:00 - Minor doc updates: linking to article on quantization (crypto-experiments)
+2015-04-28T21:18:00 - Refactor for clarity, might break a few tests though (crypto-experiments)
