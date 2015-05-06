@@ -34,3 +34,4 @@
 2015-04-28T21:18:00 - Refactor for clarity, might break a few tests though (crypto-experiments)
 2015-05-06T17:47:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (crypto-experiments)
 2015-05-06T20:36:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (crypto-experiments)
+2015-05-06T04:37:00 - Minor doc updates: linking to article on quantization (crypto-experiments)
