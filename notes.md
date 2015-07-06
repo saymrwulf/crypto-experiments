@@ -38,3 +38,4 @@
 2015-07-01T04:58:00 - Quick fix, referencing a known issue from the official repo (crypto-experiments)
 2015-07-01T22:11:00 - Implementing approach from a new paper read last night (crypto-experiments)
 2015-07-01T21:45:00 - Minor doc updates: linking to article on quantization (crypto-experiments)
+2015-07-06T19:15:00 - Quick fix, referencing a known issue from the official repo (crypto-experiments)
