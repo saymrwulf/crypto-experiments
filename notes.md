@@ -41,3 +41,4 @@
 2015-07-06T19:15:00 - Quick fix, referencing a known issue from the official repo (crypto-experiments)
 2015-08-12T22:49:00 - Implementing approach from a new paper read last night (crypto-experiments)
 2015-11-13T01:54:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (crypto-experiments)
+2015-11-13T18:39:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (crypto-experiments)
