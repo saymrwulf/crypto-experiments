@@ -44,3 +44,4 @@
 2015-11-13T18:39:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (crypto-experiments)
 2015-11-13T19:08:00 - Late-night bugfix on financial RL environment (crypto-experiments)
 2015-11-13T23:37:00 - Refactor for clarity, might break a few tests though (crypto-experiments)
+2015-12-16T03:06:00 - Minor doc updates: linking to article on quantization (crypto-experiments)
