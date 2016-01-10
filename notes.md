@@ -47,3 +47,4 @@
 2015-12-16T03:06:00 - Minor doc updates: linking to article on quantization (crypto-experiments)
 2016-01-10T21:45:00 - Refactor for clarity, might break a few tests though (crypto-experiments)
 2016-01-10T00:56:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (crypto-experiments)
+2016-01-10T06:50:00 - Minor doc updates: linking to article on quantization (crypto-experiments)
