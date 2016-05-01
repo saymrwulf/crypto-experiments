@@ -56,3 +56,4 @@
 2016-03-01T02:06:00 - Minor doc updates: linking to article on quantization (crypto-experiments)
 2016-03-15T20:05:00 - Minor doc updates: linking to article on quantization (crypto-experiments)
 2016-03-15T18:20:00 - Implementing approach from a new paper read last night (crypto-experiments)
+2016-05-02T01:13:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (crypto-experiments)
