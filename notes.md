@@ -59,3 +59,4 @@
 2016-05-02T01:13:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (crypto-experiments)
 2016-05-02T02:31:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (crypto-experiments)
 2016-05-02T17:03:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (crypto-experiments)
+2016-07-31T00:18:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (crypto-experiments)
