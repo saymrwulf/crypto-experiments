@@ -67,3 +67,4 @@
 2016-09-16T03:32:00 - Quick fix, referencing a known issue from the official repo (crypto-experiments)
 2016-09-16T17:35:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (crypto-experiments)
 2016-09-16T01:12:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (crypto-experiments)
+2016-11-01T00:25:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (crypto-experiments)
