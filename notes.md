@@ -70,3 +70,4 @@
 2016-11-01T00:25:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (crypto-experiments)
 2016-11-01T00:59:00 - Late-night bugfix on financial RL environment (crypto-experiments)
 2017-02-05T00:54:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (crypto-experiments)
+2017-02-05T19:13:00 - Refactor for clarity, might break a few tests though (crypto-experiments)
