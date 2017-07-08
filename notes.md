@@ -74,3 +74,4 @@
 2017-06-17T22:51:00 - Implementing approach from a new paper read last night (crypto-experiments)
 2017-07-08T20:23:00 - Minor doc updates: linking to article on quantization (crypto-experiments)
 2017-07-08T06:55:00 - Minor doc updates: linking to article on quantization (crypto-experiments)
+2017-07-08T05:23:00 - Minor doc updates: linking to article on quantization (crypto-experiments)
