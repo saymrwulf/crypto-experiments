@@ -73,3 +73,4 @@
 2017-02-05T19:13:00 - Refactor for clarity, might break a few tests though (crypto-experiments)
 2017-06-17T22:51:00 - Implementing approach from a new paper read last night (crypto-experiments)
 2017-07-08T20:23:00 - Minor doc updates: linking to article on quantization (crypto-experiments)
+2017-07-08T06:55:00 - Minor doc updates: linking to article on quantization (crypto-experiments)
