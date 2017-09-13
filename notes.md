@@ -80,3 +80,4 @@
 2017-07-24T06:13:00 - Late-night bugfix on financial RL environment (crypto-experiments)
 2017-09-06T19:57:00 - Implementing approach from a new paper read last night (crypto-experiments)
 2017-09-14T06:10:00 - Implementing approach from a new paper read last night (crypto-experiments)
+2017-09-14T00:26:00 - Implementing approach from a new paper read last night (crypto-experiments)
