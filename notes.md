@@ -82,3 +82,4 @@
 2017-09-14T06:10:00 - Implementing approach from a new paper read last night (crypto-experiments)
 2017-09-14T00:26:00 - Implementing approach from a new paper read last night (crypto-experiments)
 2017-09-14T07:32:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (crypto-experiments)
+2018-01-09T04:50:00 - Late-night bugfix on financial RL environment (crypto-experiments)
