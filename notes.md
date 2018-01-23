@@ -85,3 +85,4 @@
 2018-01-09T04:50:00 - Late-night bugfix on financial RL environment (crypto-experiments)
 2018-01-09T00:59:00 - Quick fix, referencing a known issue from the official repo (crypto-experiments)
 2018-01-23T19:47:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (crypto-experiments)
+2018-01-23T01:49:00 - Quick fix, referencing a known issue from the official repo (crypto-experiments)
