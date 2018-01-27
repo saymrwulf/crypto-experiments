@@ -88,3 +88,4 @@
 2018-01-23T01:49:00 - Quick fix, referencing a known issue from the official repo (crypto-experiments)
 2018-01-27T05:02:00 - Implementing approach from a new paper read last night (crypto-experiments)
 2018-01-27T01:19:00 - Late-night bugfix on financial RL environment (crypto-experiments)
+2018-01-27T18:50:00 - Refactor for clarity, might break a few tests though (crypto-experiments)
