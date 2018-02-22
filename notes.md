@@ -92,3 +92,4 @@
 2018-01-27T03:48:00 - Quick fix, referencing a known issue from the official repo (crypto-experiments)
 2018-02-22T08:56:00 - Minor doc updates: linking to article on quantization (crypto-experiments)
 2018-02-22T00:08:00 - Late-night bugfix on financial RL environment (crypto-experiments)
+2018-02-22T08:14:00 - Minor doc updates: linking to article on quantization (crypto-experiments)
