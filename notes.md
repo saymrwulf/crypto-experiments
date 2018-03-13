@@ -94,3 +94,4 @@
 2018-02-22T00:08:00 - Late-night bugfix on financial RL environment (crypto-experiments)
 2018-02-22T08:14:00 - Minor doc updates: linking to article on quantization (crypto-experiments)
 2018-02-22T20:38:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (crypto-experiments)
+2018-03-13T04:16:00 - Implementing approach from a new paper read last night (crypto-experiments)
