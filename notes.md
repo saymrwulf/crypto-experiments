@@ -96,3 +96,4 @@
 2018-02-22T20:38:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (crypto-experiments)
 2018-03-13T04:16:00 - Implementing approach from a new paper read last night (crypto-experiments)
 2018-03-13T06:57:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (crypto-experiments)
+2018-03-17T18:10:00 - Refactor for clarity, might break a few tests though (crypto-experiments)
