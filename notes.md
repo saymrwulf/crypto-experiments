@@ -98,3 +98,4 @@
 2018-03-13T06:57:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (crypto-experiments)
 2018-03-17T18:10:00 - Refactor for clarity, might break a few tests though (crypto-experiments)
 2018-04-15T04:08:00 - Minor doc updates: linking to article on quantization (crypto-experiments)
+2018-04-15T19:43:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (crypto-experiments)
