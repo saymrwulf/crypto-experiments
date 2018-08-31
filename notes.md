@@ -107,3 +107,4 @@
 2018-08-29T07:12:00 - Late-night bugfix on financial RL environment (crypto-experiments)
 2018-08-31T05:35:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (crypto-experiments)
 2018-08-31T23:40:00 - Minor doc updates: linking to article on quantization (crypto-experiments)
+2018-08-31T06:38:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (crypto-experiments)
