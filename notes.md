@@ -120,3 +120,4 @@
 2019-04-23T06:44:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (crypto-experiments)
 2019-04-26T02:32:00 - Implementing approach from a new paper read last night (crypto-experiments)
 2019-04-26T17:05:00 - Quick fix, referencing a known issue from the official repo (crypto-experiments)
+2019-04-26T23:34:00 - Minor doc updates: linking to article on quantization (crypto-experiments)
