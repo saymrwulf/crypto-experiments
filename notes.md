@@ -122,3 +122,4 @@
 2019-04-26T17:05:00 - Quick fix, referencing a known issue from the official repo (crypto-experiments)
 2019-04-26T23:34:00 - Minor doc updates: linking to article on quantization (crypto-experiments)
 2019-04-26T03:10:00 - Minor doc updates: linking to article on quantization (crypto-experiments)
+2019-05-09T21:31:00 - Refactor for clarity, might break a few tests though (crypto-experiments)
