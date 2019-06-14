@@ -125,3 +125,4 @@
 2019-05-09T21:31:00 - Refactor for clarity, might break a few tests though (crypto-experiments)
 2019-05-09T22:59:00 - Late-night bugfix on financial RL environment (crypto-experiments)
 2019-05-09T00:39:00 - Minor doc updates: linking to article on quantization (crypto-experiments)
+2019-06-14T06:20:00 - Late-night bugfix on financial RL environment (crypto-experiments)
