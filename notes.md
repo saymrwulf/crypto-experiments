@@ -128,3 +128,4 @@
 2019-06-14T06:20:00 - Late-night bugfix on financial RL environment (crypto-experiments)
 2019-06-14T01:41:00 - Late-night bugfix on financial RL environment (crypto-experiments)
 2019-06-24T19:27:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (crypto-experiments)
+2019-07-01T01:17:00 - Minor doc updates: linking to article on quantization (crypto-experiments)
