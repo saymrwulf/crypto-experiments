@@ -131,3 +131,4 @@
 2019-07-01T01:17:00 - Minor doc updates: linking to article on quantization (crypto-experiments)
 2019-07-01T05:51:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (crypto-experiments)
 2019-07-11T20:17:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (crypto-experiments)
+2019-07-11T06:17:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (crypto-experiments)
