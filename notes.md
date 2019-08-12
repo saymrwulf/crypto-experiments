@@ -135,3 +135,4 @@
 2019-07-11T19:32:00 - Implementing approach from a new paper read last night (crypto-experiments)
 2019-07-11T20:16:00 - Quick fix, referencing a known issue from the official repo (crypto-experiments)
 2019-07-30T18:04:00 - Refactor for clarity, might break a few tests though (crypto-experiments)
+2019-08-12T22:55:00 - Minor doc updates: linking to article on quantization (crypto-experiments)
