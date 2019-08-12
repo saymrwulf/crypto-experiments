@@ -137,3 +137,4 @@
 2019-07-30T18:04:00 - Refactor for clarity, might break a few tests though (crypto-experiments)
 2019-08-12T22:55:00 - Minor doc updates: linking to article on quantization (crypto-experiments)
 2019-08-12T03:55:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (crypto-experiments)
+2019-08-12T03:33:00 - Implementing approach from a new paper read last night (crypto-experiments)
