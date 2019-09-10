@@ -139,3 +139,4 @@
 2019-08-12T03:55:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (crypto-experiments)
 2019-08-12T03:33:00 - Implementing approach from a new paper read last night (crypto-experiments)
 2019-08-28T00:15:00 - Minor doc updates: linking to article on quantization (crypto-experiments)
+2019-09-10T07:49:00 - Minor doc updates: linking to article on quantization (crypto-experiments)
