@@ -146,3 +146,4 @@
 2020-01-08T05:44:00 - Late-night bugfix on financial RL environment (crypto-experiments)
 2020-01-08T21:01:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (crypto-experiments)
 2020-01-08T08:51:00 - Late-night bugfix on financial RL environment (crypto-experiments)
+2020-01-08T03:13:00 - Implementing approach from a new paper read last night (crypto-experiments)
