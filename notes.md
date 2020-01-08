@@ -145,3 +145,4 @@
 2020-01-03T06:25:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (crypto-experiments)
 2020-01-08T05:44:00 - Late-night bugfix on financial RL environment (crypto-experiments)
 2020-01-08T21:01:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (crypto-experiments)
+2020-01-08T08:51:00 - Late-night bugfix on financial RL environment (crypto-experiments)
