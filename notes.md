@@ -148,3 +148,4 @@
 2020-01-08T08:51:00 - Late-night bugfix on financial RL environment (crypto-experiments)
 2020-01-08T03:13:00 - Implementing approach from a new paper read last night (crypto-experiments)
 2020-01-20T08:08:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (crypto-experiments)
+2020-01-20T22:05:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (crypto-experiments)
