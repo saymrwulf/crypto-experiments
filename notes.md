@@ -150,3 +150,4 @@
 2020-01-20T08:08:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (crypto-experiments)
 2020-01-20T22:05:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (crypto-experiments)
 2020-01-31T21:00:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (crypto-experiments)
+2020-01-31T00:29:00 - Implementing approach from a new paper read last night (crypto-experiments)
