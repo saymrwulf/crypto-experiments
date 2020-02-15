@@ -156,3 +156,4 @@
 2020-02-15T23:01:00 - Quick fix, referencing a known issue from the official repo (crypto-experiments)
 2020-02-15T00:57:00 - Minor doc updates: linking to article on quantization (crypto-experiments)
 2020-02-15T06:42:00 - Quick fix, referencing a known issue from the official repo (crypto-experiments)
+2020-02-15T23:13:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (crypto-experiments)
