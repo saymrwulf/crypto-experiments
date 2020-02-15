@@ -153,3 +153,4 @@
 2020-01-31T00:29:00 - Implementing approach from a new paper read last night (crypto-experiments)
 2020-01-31T21:47:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (crypto-experiments)
 2020-01-31T22:40:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (crypto-experiments)
+2020-02-15T23:01:00 - Quick fix, referencing a known issue from the official repo (crypto-experiments)
