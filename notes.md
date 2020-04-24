@@ -159,3 +159,4 @@
 2020-02-15T23:13:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (crypto-experiments)
 2020-04-24T05:24:00 - Quick fix, referencing a known issue from the official repo (crypto-experiments)
 2020-04-24T01:59:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (crypto-experiments)
+2020-04-24T22:23:00 - Implementing approach from a new paper read last night (crypto-experiments)
