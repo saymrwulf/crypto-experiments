@@ -163,3 +163,4 @@
 2020-04-24T23:38:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (crypto-experiments)
 2020-04-25T06:39:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (crypto-experiments)
 2020-04-25T20:22:00 - Quick fix, referencing a known issue from the official repo (crypto-experiments)
+2020-04-25T22:25:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (crypto-experiments)
