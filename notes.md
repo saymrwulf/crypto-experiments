@@ -168,3 +168,4 @@
 2020-05-19T05:34:00 - Minor doc updates: linking to article on quantization (crypto-experiments)
 2020-07-04T05:07:00 - Late-night bugfix on financial RL environment (crypto-experiments)
 2020-07-04T01:25:00 - Minor doc updates: linking to article on quantization (crypto-experiments)
+2020-09-01T08:15:00 - Minor doc updates: linking to article on quantization (crypto-experiments)
