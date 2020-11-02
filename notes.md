@@ -182,3 +182,4 @@
 2020-10-11T01:56:00 - Quick fix, referencing a known issue from the official repo (crypto-experiments)
 2020-10-31T22:49:00 - Quick fix, referencing a known issue from the official repo (crypto-experiments)
 2020-10-31T04:09:00 - Quick fix, referencing a known issue from the official repo (crypto-experiments)
+2020-11-02T05:10:00 - Minor doc updates: linking to article on quantization (crypto-experiments)
