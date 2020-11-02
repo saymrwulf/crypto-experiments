@@ -183,3 +183,4 @@
 2020-10-31T22:49:00 - Quick fix, referencing a known issue from the official repo (crypto-experiments)
 2020-10-31T04:09:00 - Quick fix, referencing a known issue from the official repo (crypto-experiments)
 2020-11-02T05:10:00 - Minor doc updates: linking to article on quantization (crypto-experiments)
+2020-11-02T19:06:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (crypto-experiments)
