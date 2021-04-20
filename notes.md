@@ -204,3 +204,4 @@
 2021-04-17T00:19:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (crypto-experiments)
 2021-04-17T17:51:00 - Implementing approach from a new paper read last night (crypto-experiments)
 2021-04-20T00:41:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (crypto-experiments)
+2021-04-20T21:08:00 - Implementing approach from a new paper read last night (crypto-experiments)
