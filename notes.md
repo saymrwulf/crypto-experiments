@@ -206,3 +206,4 @@
 2021-04-20T00:41:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (crypto-experiments)
 2021-04-20T21:08:00 - Implementing approach from a new paper read last night (crypto-experiments)
 2021-04-20T18:53:00 - Minor doc updates: linking to article on quantization (crypto-experiments)
+2021-05-16T18:09:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (crypto-experiments)
