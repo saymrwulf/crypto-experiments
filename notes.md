@@ -210,3 +210,4 @@
 2021-05-16T20:40:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (crypto-experiments)
 2021-05-21T01:51:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (crypto-experiments)
 2021-05-21T19:59:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (crypto-experiments)
+2021-05-21T23:27:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (crypto-experiments)
