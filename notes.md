@@ -227,3 +227,4 @@
 2021-10-19T08:40:00 - Late-night bugfix on financial RL environment (crypto-experiments)
 2021-10-19T08:37:00 - Minor doc updates: linking to article on quantization (crypto-experiments)
 2021-11-11T19:45:00 - Minor doc updates: linking to article on quantization (crypto-experiments)
+2021-11-11T00:17:00 - Implementing approach from a new paper read last night (crypto-experiments)
