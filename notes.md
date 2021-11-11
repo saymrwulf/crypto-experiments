@@ -226,3 +226,4 @@
 2021-09-20T07:28:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (crypto-experiments)
 2021-10-19T08:40:00 - Late-night bugfix on financial RL environment (crypto-experiments)
 2021-10-19T08:37:00 - Minor doc updates: linking to article on quantization (crypto-experiments)
+2021-11-11T19:45:00 - Minor doc updates: linking to article on quantization (crypto-experiments)
