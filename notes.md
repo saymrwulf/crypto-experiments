@@ -231,3 +231,4 @@
 2021-11-11T01:08:00 - Refactor for clarity, might break a few tests though (crypto-experiments)
 2021-12-27T01:29:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (crypto-experiments)
 2021-12-27T18:44:00 - Quick fix, referencing a known issue from the official repo (crypto-experiments)
+2021-12-27T02:49:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (crypto-experiments)
