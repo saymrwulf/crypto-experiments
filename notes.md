@@ -238,3 +238,4 @@
 2022-03-29T00:41:00 - Late-night bugfix on financial RL environment (crypto-experiments)
 2022-05-29T23:57:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (crypto-experiments)
 2022-05-29T17:07:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (crypto-experiments)
+2022-06-14T06:20:00 - Quick fix, referencing a known issue from the official repo (crypto-experiments)
