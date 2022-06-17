@@ -240,3 +240,4 @@
 2022-05-29T17:07:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (crypto-experiments)
 2022-06-14T06:20:00 - Quick fix, referencing a known issue from the official repo (crypto-experiments)
 2022-06-17T05:10:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (crypto-experiments)
+2022-06-17T08:18:00 - Refactor for clarity, might break a few tests though (crypto-experiments)
