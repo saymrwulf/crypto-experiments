@@ -241,3 +241,4 @@
 2022-06-14T06:20:00 - Quick fix, referencing a known issue from the official repo (crypto-experiments)
 2022-06-17T05:10:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (crypto-experiments)
 2022-06-17T08:18:00 - Refactor for clarity, might break a few tests though (crypto-experiments)
+2022-06-26T01:36:00 - Implementing approach from a new paper read last night (crypto-experiments)
