@@ -244,3 +244,4 @@
 2022-06-26T01:36:00 - Implementing approach from a new paper read last night (crypto-experiments)
 2022-06-26T22:57:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (crypto-experiments)
 2022-06-26T00:22:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (crypto-experiments)
+2022-08-13T22:35:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (crypto-experiments)
