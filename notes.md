@@ -261,3 +261,4 @@
 2022-11-21T18:27:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (crypto-experiments)
 2022-11-23T01:12:00 - Quick fix, referencing a known issue from the official repo (crypto-experiments)
 2022-11-23T02:31:00 - Implementing approach from a new paper read last night (crypto-experiments)
+2022-11-23T21:27:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (crypto-experiments)
