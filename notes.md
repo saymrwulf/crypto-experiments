@@ -263,3 +263,4 @@
 2022-11-23T02:31:00 - Implementing approach from a new paper read last night (crypto-experiments)
 2022-11-23T21:27:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (crypto-experiments)
 2022-11-23T04:07:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (crypto-experiments)
+2022-11-24T23:28:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (crypto-experiments)
