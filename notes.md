@@ -268,3 +268,4 @@
 2023-02-01T04:13:00 - Late-night bugfix on financial RL environment (crypto-experiments)
 2023-02-01T21:17:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (crypto-experiments)
 2023-02-11T07:37:00 - Late-night bugfix on financial RL environment (crypto-experiments)
+2023-02-11T04:25:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (crypto-experiments)
