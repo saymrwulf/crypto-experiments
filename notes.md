@@ -274,3 +274,4 @@
 2023-04-20T01:49:00 - Late-night bugfix on financial RL environment (crypto-experiments)
 2023-04-20T04:45:00 - Refactor for clarity, might break a few tests though (crypto-experiments)
 2023-06-19T20:53:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (crypto-experiments)
+2023-06-19T03:29:00 - Implementing approach from a new paper read last night (crypto-experiments)
