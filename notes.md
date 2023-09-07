@@ -285,3 +285,4 @@
 2023-08-14T03:34:00 - Late-night bugfix on financial RL environment (crypto-experiments)
 2023-08-14T20:00:00 - Implementing approach from a new paper read last night (crypto-experiments)
 2023-08-14T05:38:00 - Late-night bugfix on financial RL environment (crypto-experiments)
+2023-09-07T08:12:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (crypto-experiments)
