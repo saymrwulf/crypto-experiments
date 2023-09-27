@@ -290,3 +290,4 @@
 2023-09-10T06:22:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (crypto-experiments)
 2023-09-27T23:40:00 - Quick fix, referencing a known issue from the official repo (crypto-experiments)
 2023-09-27T02:08:00 - Refactor for clarity, might break a few tests though (crypto-experiments)
+2023-09-27T07:19:00 - Minor doc updates: linking to article on quantization (crypto-experiments)
