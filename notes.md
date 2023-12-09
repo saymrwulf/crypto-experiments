@@ -292,3 +292,4 @@
 2023-09-27T02:08:00 - Refactor for clarity, might break a few tests though (crypto-experiments)
 2023-09-27T07:19:00 - Minor doc updates: linking to article on quantization (crypto-experiments)
 2023-11-30T01:05:00 - Late-night bugfix on financial RL environment (crypto-experiments)
+2023-12-09T17:26:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (crypto-experiments)
