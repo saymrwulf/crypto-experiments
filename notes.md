@@ -295,3 +295,4 @@
 2023-12-09T17:26:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (crypto-experiments)
 2023-12-09T18:05:00 - Refactor for clarity, might break a few tests though (crypto-experiments)
 2024-01-01T04:26:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (crypto-experiments)
+2024-01-01T17:10:00 - Refactor for clarity, might break a few tests though (crypto-experiments)
