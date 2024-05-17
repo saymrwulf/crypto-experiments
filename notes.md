@@ -307,3 +307,4 @@
 2024-02-19T23:35:00 - Late-night bugfix on financial RL environment (crypto-experiments)
 2024-05-17T04:04:00 - Refactor for clarity, might break a few tests though (crypto-experiments)
 2024-05-17T05:13:00 - Implementing approach from a new paper read last night (crypto-experiments)
+2024-05-17T18:08:00 - Late-night bugfix on financial RL environment (crypto-experiments)
