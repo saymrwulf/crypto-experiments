@@ -310,3 +310,4 @@
 2024-05-17T18:08:00 - Late-night bugfix on financial RL environment (crypto-experiments)
 2024-10-06T23:09:00 - Quick fix, referencing a known issue from the official repo (crypto-experiments)
 2024-10-06T20:37:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (crypto-experiments)
+2024-10-06T08:56:00 - Minor doc updates: linking to article on quantization (crypto-experiments)
