@@ -312,3 +312,4 @@
 2024-10-06T20:37:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (crypto-experiments)
 2024-10-06T08:56:00 - Minor doc updates: linking to article on quantization (crypto-experiments)
 2024-10-22T02:47:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (crypto-experiments)
+2024-10-22T03:56:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (crypto-experiments)
