@@ -317,3 +317,4 @@
 2024-11-01T19:30:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (crypto-experiments)
 2024-11-01T21:45:00 - Minor doc updates: linking to article on quantization (crypto-experiments)
 2024-11-01T00:03:00 - Minor doc updates: linking to article on quantization (crypto-experiments)
+2024-11-01T07:09:00 - Implementing approach from a new paper read last night (crypto-experiments)
