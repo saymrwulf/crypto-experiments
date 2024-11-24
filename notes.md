@@ -318,3 +318,4 @@
 2024-11-01T21:45:00 - Minor doc updates: linking to article on quantization (crypto-experiments)
 2024-11-01T00:03:00 - Minor doc updates: linking to article on quantization (crypto-experiments)
 2024-11-01T07:09:00 - Implementing approach from a new paper read last night (crypto-experiments)
+2024-11-24T03:24:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (crypto-experiments)
